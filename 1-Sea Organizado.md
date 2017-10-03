@@ -8,9 +8,9 @@ Declare sus artículos más genéricos primero, entonces siga con el que no es t
 
 Utilice una estructura que funciona mejor para usted, manteniendo ediciones futuras y otros cambios futuros.
 
-*Resets y overrides
-*Enlaces y type
-*Diseño principal
-*Estructuras de diseño secundarias
-*Elementos de formulario
-*Demás diseño
+-Resets y overrides
+-Enlaces y type
+-Diseño principal
+-Estructuras de diseño secundarias
+-Elementos de formulario
+-Demás diseño
