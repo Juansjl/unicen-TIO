@@ -1,3 +1,5 @@
 # 7. Optimizar Para Archivos CSS Ligeros
 
 El uso de los consejos anteriores, hara que realmente pueda reducir el tamaño de sus hojas de estilo. Cargas más pequeñas más rápido y más pequeño es más fácil de mantener y actualizar. Elimine lo que no es necesario y consolide en lo posible mediante la agrupación. Tenga cuidado tambien al usar FrameWorks CSS. Es probable que herede una gran cantidad de codigo que no se utilizará.
+
+[Blog](http://blog.hostdime.com.co/10-buenas-practicas-para-mejorar-su-codigo-css/)

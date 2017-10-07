@@ -11,3 +11,5 @@ Usted también debe hacer uso de los atributos en linea siempre que sea posible.
 propiedades elemento css desordenado propiedades ordenadas css
 
 Como vemos, la imagen del lado izquierdo tiene una serie de configuración que se pueden acortar mediante uso de una linea, como el ejemplo que vemos en el lado derecho.
+
+[Blog](http://blog.hostdime.com.co/10-buenas-practicas-para-mejorar-su-codigo-css/)
