@@ -7,3 +7,5 @@ Digamos, manejaos columnas en nuestro diseño, queremos mover la columna de la i
 Una de las principales ventajas del CSS es la capacidad de separar estilos de contenido. Puede rediseñar completamente su sitio con sólo modificar el CSS sin tener que tocar el código HTML . Así que no arruinar definitivamente el CSS mediante el uso de nombres de limitantes. Utilice convenciones de nomenclatura más versátiles y coherentes.
 
 Deja posición o estilo palabras específicas de sus estilos y de identificación. Digamos, para una etiqueta A, manejar un clase .link-blue, con esto podemos saber que el color del vinculo será azul, y seguramente tendrá otras propiedades. Esta misma estrategia la puedes aplicar a otros tipos de elementos.
+
+[Blog](http://blog.hostdime.com.co/10-buenas-practicas-para-mejorar-su-codigo-css/)

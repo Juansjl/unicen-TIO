@@ -14,3 +14,5 @@ Utilice una estructura que funciona mejor para usted, manteniendo ediciones futu
 - Estructuras de diseño secundarias
 - Elementos de formulario
 - Demás diseño
+
+[Blog](http://blog.hostdime.com.co/10-buenas-practicas-para-mejorar-su-codigo-css/)
