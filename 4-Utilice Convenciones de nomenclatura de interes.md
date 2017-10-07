@@ -1,6 +1,6 @@
 # 4. Utilice Convenciones de nomenclatura de interés
 
-Se dará cuenta de por encima de donde me declaré un par de columnas de id y les llamé col-alpha y col-beta. ¿Por qué no llamarlos col-left y col-right? Piense en futuras modificaciones, siempre.
+Se dará cuenta de por encima de donde me declaré un par de columnas de id y les llamé col-alpha y col-beta. ¿Por qué no llamarlos **col-left y col-right?** Piense en futuras modificaciones, siempre.
 
 Digamos, manejaos columnas en nuestro diseño, queremos mover la columna de la izquierda a la derecha, solo bastaría con cambiar la ubicación, pero tengamos en cuenta que el id, nos daría a entender que debería de estar en la izquierda. Confuso, verdad?
 
